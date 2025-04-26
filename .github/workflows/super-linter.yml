@@ -48,4 +48,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: stefan-kolov/github-actions-hw:latest
+          tags: stefankolov/github-actions-hw:latest
